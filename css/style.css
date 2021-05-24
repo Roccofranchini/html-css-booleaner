@@ -43,3 +43,21 @@ th {
 .riga-dispari {
     background-color: lightblue;
 }
+.titolo-footer{
+    color: grey;
+}
+
+.cella{
+    height: 250px;
+    width: 250px;
+    font-size: 25px;
+    color: white;
+}
+
+.uno {
+    background-image: url(../img/monitor.jpg);
+}
+
+.due {
+    background-image: url(../img/graph.jpg);
+}
