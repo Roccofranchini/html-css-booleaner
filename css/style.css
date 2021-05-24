@@ -10,3 +10,20 @@
     margin-top: 50px;
     margin-left: 15px;
 }
+
+.titolo {
+    font-size: 50px;
+}
+
+.author {
+color: lightblue;
+}
+
+.info {
+    color: grey;
+    font-size: 20px;
+}
+
+.data {
+    color: grey;
+}
