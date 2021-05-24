@@ -1,0 +1,12 @@
+.intestazione {
+    height: 200px;
+    background-image: url(../img/pattern.png);
+    background-color: rgb(31, 117, 197);
+}
+
+.logo {
+    height: 100px;
+    width: auto;
+    margin-top: 50px;
+    margin-left: 15px;
+}
